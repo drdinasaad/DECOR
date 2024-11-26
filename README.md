@@ -1,0 +1,2 @@
+# DECOR
+First javascript project
