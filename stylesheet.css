@@ -1,0 +1,43 @@
+.card{
+  margin: 5% 0%;
+}
+
+.card-body{
+  margin: 0% 0% 0% 3%;
+  padding: 6% 0%;
+}
+.navbar{
+  background-color: brown;
+}
+#btn1{
+  background-color: brown;
+  width: 100%;
+  color: aliceblue;
+}
+#del{
+  background-color: darkblue;
+  color: aliceblue;
+  width: 80px;
+  height: 40px;
+  margin: 10px 45%;
+}
+#content{
+  font-size: 20px;
+  /* margin-bottom: 30px; */
+  /* color:darkblue; */
+  background-color: brown;
+  width: 100%;
+  color: aliceblue;
+  text-align: center;
+}
+#buy{
+  background-color: brown;
+  color: aliceblue;
+
+}
+#pr{
+  margin-left: 47%;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: brown;
+}
